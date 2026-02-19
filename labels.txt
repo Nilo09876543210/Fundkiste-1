@@ -1,0 +1,3 @@
+0 Blaues T-Shirt
+1 Rotes T-Shirt
+2 Gelbes T-Shirt
