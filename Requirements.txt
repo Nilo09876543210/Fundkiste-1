@@ -1,9 +1,4 @@
 streamlit
-pandas
-numpy
-matplotlib
-keras
-pillow
-tensorflow
-opencv-python
 tensorflow-cpu==2.13.0
+numpy
+pillow
