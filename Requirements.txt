@@ -4,3 +4,5 @@ numpy
 matplotlib
 keras
 pillow
+tensorflow
+opencv-python
